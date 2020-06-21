@@ -9,7 +9,7 @@ Elon Musk heeft de Haagse Hogeschool weer gevraagd om deze ex-Marsbewoners te he
 
 **Oplossing**
 
-Om de austronauten te helpen in het vinden van een veilige landingsplek, heb ik een website in elkaar gezet waarmee gegevens  over het weer van de opgevraagde locatie getoont kan worden. De gebruiker klikt dus op een locatie op de kaart en krijgt te zien wat de weersomstandigheden zijn. Ook krijgt de astronaut een advies op basis van de weerssituatie. Zo kunnen de reigers een veilige plek uitkiezen om te landen.
+Om de austronauten te helpen in het vinden van een veilige landingsplek, heb ik een website in elkaar gezet waarmee gegevens  over het weer van de opgevraagde locatie getoont kan worden. De gebruiker klikt dus op een locatie op de kaart en krijgt te zien wat de weersomstandigheden daar zijn. Ook krijgt de astronaut een advies op basis van de weerssituatie. Zo kunnen de reigers een veilige plek uitkiezen om te landen.
 
 De gebruiker ziet: De naam van de locatie, de coordinaten waarop geklikt is, een algemene beschrijving van het weer met temperatuur en windsnelheid en een advies op basis van deze gegevens.
 
