@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Map</title>
+        <script src='https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js'></script>
+        <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css' rel='stylesheet' />
+        <link href="style.css" rel="stylesheet" />
+
+    </head>
+    <body>
+        <div id="container">
+            <div id='map'></div>
+            <div id="info-container">
+                <h1>Permission to land?</h1>
+                <div class="info">
+                    <p>Place: </p>
+                    <p id="plaats"></p>
+                </div>
+                <div class="info">
+                    <p>Coordinates: </p>
+                    <p id="coords"></p>
+                </div>
+                <div class="info">
+                    <p>Permission: </p>
+                    <p id="permission"></p>
+                </div>
+                <div class="info">
+                    <p>Weather: </p>
+                    <p id="weer"></p>
+                </div>
+                <div class="info">
+                    <p>Temperature: </p>
+                    <p id="temp"></p>
+                </div>
+                <div class="info">
+                    <p>Windspeed: </p>
+                    <p id="wind"></p>
+                </div>
+            </div>
+        </div>
+        <script src="main.js" defer></script>
+    </body>
+</html>
